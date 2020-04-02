@@ -20,5 +20,5 @@ def func2():
     num = sorted(num,reverse=True)
     #通过sorted函数建立新列表来倒序
     print(num)
-# func1()
-func2()
+func1()
+# func2()
