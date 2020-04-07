@@ -8,17 +8,13 @@
       <change afterPath="$PROJECT_DIR$/../python_class/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../python_class/.idea/python_class.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../python_class/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_class/test01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEGB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test17.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../python_test/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../python_test/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../python_test/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../python_test/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../python_test/.idea/python_test.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../python_test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_test/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_class/test01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python_class/test01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
