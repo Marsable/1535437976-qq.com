@@ -3,9 +3,9 @@ class Person:
         self.name = name
         self.age = age
 
-    def __add__(self, other):
-        if isinstance(other,Person):
-            return self.name+other.name
+    def __add__(self, EX1):
+        if isinstance(EX1,Person):
+            return self.name+EX1.name
         else:
             return "不能添加"
 
