@@ -15,6 +15,8 @@ class Application(Frame):
         self.w1.pack()
         self.btn01 = Button()
 
+
+
 if __name__ == '__main__':
     root = Tk()
     root.geometry("300x300+100+100")
