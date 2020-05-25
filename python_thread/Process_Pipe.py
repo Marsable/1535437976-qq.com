@@ -6,6 +6,7 @@ def func(name,con1):
     print("进程ID{0}：{1}".format(os.getpid(), con1.recv()))
     con1.send("yxy")
 
+
 if __name__ == '__main__':
     print("进程ID{0}".format(os.getpid()))
     con1,con2 = Pipe()
