@@ -8,6 +8,7 @@ def  security_check(n):
     sleep(2)
     lock.release()
 
+
 if __name__ == '__main__':
 
     lock = BoundedSemaphore(3)

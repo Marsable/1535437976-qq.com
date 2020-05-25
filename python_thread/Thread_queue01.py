@@ -1,12 +1,12 @@
-from queue import Queue
+from queue import LifoQueue
 
-# 队列先进先出FIFO
-mq = Queue()
+# 队列后进先出LIFO
+mq = LifoQueue()
+
 # 存放数据
 mq.put(1)
 mq.put(2)
 mq.put(3)
-
 # get()默认空时，等待新数据
 print(mq.get())
 print(mq.get())
