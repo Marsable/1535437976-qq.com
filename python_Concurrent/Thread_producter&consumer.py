@@ -17,6 +17,7 @@ def consumer():
         print("购买了{}".format(mq.get()))
         sleep(3)
 
+
 if __name__ == '__main__':
     # 共享数据的容器
     mq = Queue()
